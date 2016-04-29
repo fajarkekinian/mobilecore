@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_b01184b164a0d370cb7a9c3e8bc9d5825e88d22e/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_26095b46cc48df8a82eebb9caa56a7e1b93edf67/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d292cab117bb40255ac3f4173fcd67ecd476df71">
+        <dex dex="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2a027358b0026113b2273ffe8d6855b1063b4c22/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_399ed23eacc8d972aaa9a4efed31e35910b30f64/classes.dex" />
+    </item>
+    <item
+        jar="/opt/SDK-Linux/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_fbff257e66ea7ff35b34cddfb4a251156c03750b/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_ff3ff5b3a7041a527ffe09a37ce84e7a2b2bef6e/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_3927880b7be7374b51e721a499d77fab8387169a/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="229408b560affa87dad8ada4d9a6c452f2069bed">
+        <dex dex="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0d12d90e240e084266d5b530965da3b271f19021/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/Desktop/Sampemobilecore/app/libs/mobilecore.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67cd1a5531220a72e2ca5c227f0d97601e24370e">
+        <dex dex="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilecore_4eb62afd39ed58a94ca2ae5ec22c0a8534d4ec90/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_c12f180bfa2dcd6671e62dcf5726a5770edfc795/classes.dex" />
+    </item>
+    <item
+        jar="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/developer/Desktop/Sampemobilecore/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_b797a7facdb66e7fabdf3580d446fd2764ba22ab/classes.dex" />
+    </item>
+
+</items>
